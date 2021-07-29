@@ -1,4 +1,4 @@
-# 자바스크립트 동작 순서
+# 📌 자바스크립트 동작 순서
 
 [참고자료](https://www.youtube.com/watch?v=v67LloZ1ieI)
 
@@ -74,7 +74,7 @@ python 으로 작성한다고 하면
 
 그럼 무엇일까 ??
 
-# 동작원리
+# 📌 동작원리
 
 
 우리는 웹 브라우저를 많이 사용한다
@@ -157,7 +157,7 @@ stack 실행하는 도중에 변수를 만나게 되면 그 변수를 Heap 이�
 
 그런데 이때 바로 스택으로 가지 않는다.
 
-# Queue
+# 📌 Queue
 
 
 바로스택으로 가지않고 , Queue 라는 대기실이 있는데 여기에 처리가 완료된 코드들을 줄 세우게 된다.
@@ -221,7 +221,7 @@ Queue 를 거쳐서 Stack 으로 이동하게된다.
 그래서 이러한 순서로 동작한다고 보면 된다.
 
 
-# 문제
+# 📌 문제
 
 ![자바스크립트 동작원리 image](https://slid-capture.s3.ap-northeast-2.amazonaws.com/public/capture_images/38ffd16e9af04092b387435533958b1a/830d312a-e845-4bc2-9317-8ac623e7a882.png)
 
