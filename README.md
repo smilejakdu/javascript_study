@@ -14,5 +14,7 @@
 |[디자인패턴](https://www.youtube.com/watch?v=lJES5TQTTWE)|
 |[call by reference , call by value , call by sharing](https://www.youtube.com/watch?v=-w-oJp6OVd4)|
 |[call by reference , call by value , call by sharing(심화)](https://www.youtube.com/watch?v=ooyJIopwnrk)|
+|[환경변수](https://www.youtube.com/watch?v=OEZedYK5biA&t=5s)|
+|[morgan (로그관리)](https://www.youtube.com/watch?v=gTc7-JMIVE8&list=PLSK4WsJ8JS4cQ-niGNum4bkK_THHOizTs&index=36)|
 
 # 📌 문서 & 블로그
